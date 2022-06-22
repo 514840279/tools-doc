@@ -1,0 +1,10 @@
+{
+    "title": "系统安装与设置v1.0",
+    "author": "514840279@qq.com",
+    "plugins":[
+        "expandable-chapters","theme-comscore"
+    ],
+    "pluginsConfig": {
+
+    }
+}
